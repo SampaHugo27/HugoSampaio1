@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Hugo da Silva Sampaio
 
-- Hoje trabalho como Analista Programador Cobol/Mainframe
+- Hoje trabalho como Analista de Sistemas Cobol/Mainframe
 - Estudando Ciência de Dados e Programação Cobol/Mainframe
-- Procuro uma oportunidade na vaga de 
+- Procuro uma oportunidade na vaga de Analista de Sistemas Cobol/Mainframe ou Cientista de Dados Jr.
 
 <div align="center">
   <a href="https://github.com/SampaHugo27"> 
