@@ -4,10 +4,6 @@
 - Estudando Ciência de Dados e Programação Cobol/Mainframe
 - Procuro uma oportunidade na vaga de Analista de Sistemas Cobol/Mainframe ou Cientista de Dados Jr.
 
-<div align="center">
-  <a href="https://github.com/SampaHugo27"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SampaHugo27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
